@@ -1,6 +1,6 @@
 body {
 	font: 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(125,125,222,1);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
@@ -10,7 +10,7 @@ body {
 
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(125,125,222,1);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
@@ -19,7 +19,7 @@ h1 {
 
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    color: rgba(125,10,150,1);
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
